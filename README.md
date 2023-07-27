@@ -11,9 +11,6 @@
 ## Stack de Tecnologías
 Aquí hay algunas de las tecnologías con las que trabajo:
 
-## Stack de Tecnologías
-Aquí hay algunas de las tecnologías con las que trabajo:
-
 - Lenguajes de Programación: <img src="icons/javascript.svg" alt="JavaScript" width="20">
 - Tecnologías Frontend: 
   <img src="icons/html.svg" alt="HTML" width="20"> 
