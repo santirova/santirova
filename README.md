@@ -1,7 +1,7 @@
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋 Soy Santiago Rovaletti
 
 ## Sobre mí
-¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado desarrollador de software con un enfoque en [tu enfoque o intereses específicos]. Disfruto enfrentando desafíos y creando soluciones innovadoras. Siempre estoy buscando aprender nuevas tecnologías y compartir conocimientos con la comunidad.
+¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado desarrollador fullstack con un enfoque en backend. Disfruto enfrentando desafíos y creando soluciones innovadoras. Siempre estoy buscando aprender nuevas tecnologías y compartir conocimientos con la comunidad.
 
 - 🔭 Actualmente estoy trabajando en [tu proyecto actual o área de enfoque].
 - 🌱 Estoy aprendiendo [tecnología o lenguaje que estés estudiando actualmente].
@@ -11,18 +11,34 @@
 ## Stack de Tecnologías
 Aquí hay algunas de las tecnologías con las que trabajo:
 
-- Lenguajes de Programación: [Lista de lenguajes que dominas]
-- Tecnologías Frontend: [Lista de tecnologías frontend que utilizas]
-- Tecnologías Backend: [Lista de tecnologías backend que utilizas]
-- Bases de Datos: [Lista de bases de datos con las que trabajas]
-- Herramientas y Otros: [Otras herramientas o tecnologías relevantes]
+## Stack de Tecnologías
+Aquí hay algunas de las tecnologías con las que trabajo:
 
-## Datos de Contacto
-- Sitio web: [URL de tu sitio web o blog]
-- Correo electrónico: [tu correo electrónico]
-- LinkedIn: [tu perfil de LinkedIn]
-- Twitter: [tu perfil de Twitter]
-- Otros enlaces: [Enlaces a otros perfiles o proyectos relevantes]
+- Lenguajes de Programación: <img src="icons/javascript.svg" alt="JavaScript" width="20">
+- Tecnologías Frontend: 
+  <img src="icons/html.svg" alt="HTML" width="20"> 
+  <img src="icons/css.svg" alt="CSS" width="20"> 
+  <img src="icons/react.svg" alt="React" width="20"> 
+  <img src="icons/redux.svg" alt="Redux" width="20"> 
+  <img src="icons/material-ui.svg" alt="Material UI" width="20">
+- Tecnologías Backend: 
+  <img src="icons/nodejs.svg" alt="Node.js" width="20"> 
+  <img src="icons/express.svg" alt="Express" width="20"> 
+  <img src="icons/sequelize.svg" alt="Sequelize" width="20">
+- Bases de Datos: 
+  <img src="icons/postgress.svg" alt="PostgreSQL" width="20"> 
+  <img src="icons/mongo.svg" alt="MongoDB" width="20">
+- Herramientas y Otros: 
+  <img src="icons/git.svg" alt="Git" width="20"> 
+  <img src="icons/github.svg" alt="GitHub" width="20"> 
+  <img src="icons/cloudinary.svg" alt="Cloudinary" width="20"> 
+  <img src="icons/nivo.svg" alt="Nivo" width="20"> 
+  <img src="icons/vercel.svg" alt="Vercel" width="20"> 
+  <img src="icons/railway.svg" alt="Railway" width="20"> 
+  <img src="icons/multer.svg" alt="Multer" width="20"> 
+  <img src="icons/mercado-pago.svg" alt="Mercado Pago" width="20">
+
+
 
 ¡No dudes en contactarme si tienes alguna pregunta, sugerencia o si simplemente quieres charlar sobre tecnología! Estoy emocionado de conectar con otros desarrolladores y aprender juntos.
 
