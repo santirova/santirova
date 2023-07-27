@@ -1,9 +1,29 @@
-<h1 align="center">Hi 👋, I'm Santiago Rovaletti</h1>
-<h3 align="center">A passionate fullstack developer, oriented to backend</h3>
+# ¡Hola! 👋 Soy [Tu Nombre]
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## Sobre mí
+¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado desarrollador de software con un enfoque en [tu enfoque o intereses específicos]. Disfruto enfrentando desafíos y creando soluciones innovadoras. Siempre estoy buscando aprender nuevas tecnologías y compartir conocimientos con la comunidad.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+- 🔭 Actualmente estoy trabajando en [tu proyecto actual o área de enfoque].
+- 🌱 Estoy aprendiendo [tecnología o lenguaje que estés estudiando actualmente].
+- 💬 Puedes preguntarme sobre [temas o áreas en las que tengas experiencia y puedas ayudar a otros].
+- 📫 Puedes contactarme por correo electrónico en [tu correo electrónico] o a través de mis redes sociales que se encuentran más abajo.
+
+## Stack de Tecnologías
+Aquí hay algunas de las tecnologías con las que trabajo:
+
+- Lenguajes de Programación: [Lista de lenguajes que dominas]
+- Tecnologías Frontend: [Lista de tecnologías frontend que utilizas]
+- Tecnologías Backend: [Lista de tecnologías backend que utilizas]
+- Bases de Datos: [Lista de bases de datos con las que trabajas]
+- Herramientas y Otros: [Otras herramientas o tecnologías relevantes]
+
+## Datos de Contacto
+- Sitio web: [URL de tu sitio web o blog]
+- Correo electrónico: [tu correo electrónico]
+- LinkedIn: [tu perfil de LinkedIn]
+- Twitter: [tu perfil de Twitter]
+- Otros enlaces: [Enlaces a otros perfiles o proyectos relevantes]
+
+¡No dudes en contactarme si tienes alguna pregunta, sugerencia o si simplemente quieres charlar sobre tecnología! Estoy emocionado de conectar con otros desarrolladores y aprender juntos.
+
+¡Gracias por visitar mi perfil! 🚀
