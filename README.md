@@ -13,18 +13,18 @@ Aquí hay algunas de las tecnologías con las que trabajo:
 
 - Lenguajes de Programación: <img src="icons/javascript.svg" alt="JavaScript" width="20">
 - Tecnologías Frontend: 
-  <img src="icons/html.svg" alt="HTML" width="20"> 
+  <img src="icons/icons8-html-5.svg" alt="HTML" width="20"> 
   <img src="icons/css.svg" alt="CSS" width="20"> 
   <img src="icons/react.svg" alt="React" width="20"> 
-  <img src="icons/redux.svg" alt="Redux" width="20"> 
-  <img src="icons/material-ui.svg" alt="Material UI" width="20">
+  <img src="icons/icons8-redux.svg" alt="Redux" width="20"> 
+  <img src="icons/icons8-material-ui.svg" alt="Material UI" width="20">
 - Tecnologías Backend: 
   <img src="icons/nodejs.svg" alt="Node.js" width="20"> 
   <img src="icons/express.svg" alt="Express" width="20"> 
   <img src="icons/sequelize.svg" alt="Sequelize" width="20">
 - Bases de Datos: 
   <img src="icons/postgress.svg" alt="PostgreSQL" width="20"> 
-  <img src="icons/mongo.svg" alt="MongoDB" width="20">
+  <img src="icons/icons8-mongodb.svg" alt="MongoDB" width="20">
 - Herramientas y Otros: 
   <img src="icons/git.svg" alt="Git" width="20"> 
   <img src="icons/github.svg" alt="GitHub" width="20"> 
@@ -33,7 +33,7 @@ Aquí hay algunas de las tecnologías con las que trabajo:
   <img src="icons/vercel.svg" alt="Vercel" width="20"> 
   <img src="icons/railway.svg" alt="Railway" width="20"> 
   <img src="icons/multer.svg" alt="Multer" width="20"> 
-  <img src="icons/mercado-pago.svg" alt="Mercado Pago" width="20">
+  <img src="icons/icons8-mercado-pago.svg" alt="Mercado Pago" width="20">
 
 
 
