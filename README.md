@@ -82,7 +82,7 @@ Aquí hay algunas de las tecnologías con las que trabajo:
 <a href="https://www.linkedin.com/in/santiago-rovaletti/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  santiago rovaletti-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin />
 
-<a href="mailto:dvoskingaston@gmail.com" target="_blank">
+<a href="mailto:sntlgs@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail: sntlgs@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 
 <p>📲 <a href="tel:+543872145841">(+54) 3872145841</a></p>
